@@ -14,7 +14,6 @@ I turn business questions into dashboards, automated reports, and ML-assisted an
 
 ## 💼 Currently
 
-- 📊 Data Analyst @ Trueparkings KC LLC (Kansas City, MO)
 - 🌱 Learning: Power Apps, AI-assisted analytics workflows
 - 📫 Pavankalyanprasadam2000@gmail.com
 - 💼 [LinkedIn](https://www.linkedin.com/in/pavan-kalyan-prasadam-554499324)
